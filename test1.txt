@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BA6A-7B72
+
+ Directory of C:\myproject
+
+03/03/2019  02:01 AM    <DIR>          .
+03/03/2019  02:01 AM    <DIR>          ..
+03/03/2019  02:01 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  149,664,702,464 bytes free
